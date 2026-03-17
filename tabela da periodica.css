@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body { background-color: whitesmoke;}
+h1 {font-style: oblique ;}
+h1 {text-align: center;}
+h1 {font-size: 48px;}
+h1 {color: black;}
+
+.borda { border: solid; width: 100px;height: 7vh;color: black; margin: auto; border: 1px solid rgba(255, 255, 255, 0.3); border-radius: 12px; box-shadow: 0px 32px 0 rgba (0, 0, 0, 0.1);
+       box-shadow: 0px 0px 0px 3px; 
+       
+    
+   
+}   
+   
+
+
+
+
+
+
+
+#fundo {background-color: rgb(198, 238, 118); }
+#fundo2 {background-color: rgb(238, 190, 118); }
+#fundo3 {background-color: rgb(253, 243, 95); }
+#fundo4 {background-color: rgb(104, 184, 238); }
+#fundo5 {background-color: rgb(238, 190, 118); }
+#fundo6 {background-color: rgb(253, 243, 95); }
+#f7 {background-color: rgb(247, 163, 154);}
+#f8 {background-color: rgb(67, 199, 144);}
+#f9 {background-color: rgb(177, 228, 102);}
+#f10 {background-color: rgb(101, 223, 223);}
+#f1 {background-color: silver;}
+#f2 {background-color: rgb(255, 192, 231);}
+#f3 {background-color: rgba(165, 242, 255, 0.685);}
+tr {text-align: center;}
+div{
+    text-align: left;
+}
