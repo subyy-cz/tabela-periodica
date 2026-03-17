@@ -36,6 +36,27 @@ h1 {color: black;}
 #f2 {background-color: rgb(255, 192, 231);}
 #f3 {background-color: rgba(165, 242, 255, 0.685);}
 tr {text-align: center;}
+.metal-alcalino {background: #f7c948;}
+.alcalino-terroso {background: #ffe08a;}
+.metal-trans {background: #f39c9c;}
+.metal-pos-trans {background: #b0c4de;}
+.semimetal {background: #7fd1c8;}
+.nao-metal {background: #9be7ff;}
+.halogenio{background: #b8f28c;}
+.gas-nobre{background: #9aa7ff;}
+.lantanideo{background: #8ee3c8;}
+.actinideo{background: #ffb6c1;}
+
+.legenda {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    max-width: 1100px;
+}
+
+
+
+
 div{
     text-align: left;
 }
